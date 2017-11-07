@@ -5,7 +5,7 @@ class Database{
     private $host = "localhost";
     private $db_name = "crud_learn";
     private $username = "root";
-    private $password = "daniel123";
+    private $password = "******";
     public $conn;
  
     // get the database connection
